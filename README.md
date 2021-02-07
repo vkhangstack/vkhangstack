@@ -1,7 +1,7 @@
 ## Hi there, I'm Pham Van Khang 
 
 <p align="center">
-<img width="20%" src="https://www.flaticon.com/free-icon/zebra_1998813?term=zebra&page=1&position=2&page=1&position=2&related_id=1998813&origin=search&k=1612701448120"/>
+<img width="20%" src="https://github.com/vkhang-stack/vkhang-stack/blob/master/zebra.png"/>
 </p>
 
 
