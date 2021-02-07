@@ -26,5 +26,3 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 </p>
 
-#### Profile views counter
-![Visitor Count](/{vkhang-stack}/count.svg)
