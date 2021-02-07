@@ -8,7 +8,7 @@
 - 🔭 I'm **A SoftWare Developer** | **Programmer**
 - 🌱 Currently Learning **Java**, **Python**, **Web Development** And **Machine Learning**
 - 👯 Willing to contribute more and more in **Open Source Projects**
-- ⚡⚡ Hobbies: Reading Book, listening to music, playing game League of Legends
+- ⚡ Hobbies: Reading Book, listening to music, playing game League of Legends
 
 ### 💬📫 Feel Free to Contact me.....
 
