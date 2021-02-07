@@ -5,7 +5,7 @@
 </p>
 
 
-- I'm **Developer** | **Programmer** | **Learner**
+- I'm **Developer** | **Programmer**
 - Currently Learning **Java**, **Python**, **Web Development** And **Machine Learning**
 - Willing to contribute more and more in **Open Source Projects**
 
