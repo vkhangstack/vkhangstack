@@ -9,6 +9,7 @@
 - 🌱 Currently Learning **Java**, **Python**, **JavaScript**, **Web Development** And **Machine Learning**
 - 👯 Willing to contribute more and more in **Open Source Projects**
 - ⚡ Hobbies: Reading Book, listening to music, playing game League of Legends
+- 💜 On the internet call me Zebra
 
 ### 💬📫 Feel Free to Contact me.....
 
