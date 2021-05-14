@@ -5,8 +5,8 @@
 </p>
 
 
-- 🔭 I'm **A Software Developer** | **Programmer**
-- 🌱 Currently Learning **Java**, **Python**, **JavaScript**, **Web Development** And **Machine Learning**
+- 🔭 I'm **Student** | **Programmer**
+- 🌱 Currently Learning **JavaScript**, **Web Development** And **Machine Learning**
 - 👯 Willing to contribute more and more in **Open Source Projects**
 - ⚡ Hobbies: Reading Book, listening to music, playing game League of Legends
 - 💜 Call me Zebra on the internet
