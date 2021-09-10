@@ -6,10 +6,9 @@
 
 
 - 🔭 I'm **Student** | **Programmer**
-- 🌱 Currently Learning **JavaScript**, **Web Development** And **Machine Learning**
+- 🌱 Currently Learning **JavaScript**, **Web Development**
 - 👯 Willing to contribute more and more in **Open Source Projects**
 - ⚡ Hobbies: Reading Book, listening to music, playing game League of Legends
-- 💜 Call me Zebra on the internet
 
 ### 💬📫 Feel Free to Contact me.....
 
