@@ -1,4 +1,34 @@
+const axios = require("axios");
+const fs = require("fs");
 
+const getQuote = async () => {
+  try {
+    const { data } = await axios.get(
+      "https://quotes.rest/qod?language=en&quot;"
+    );
+    const quote = data.contents.quotes[0].quote;
+    const author = data.contents.quotes[0].author;
+
+    console.log("new quote", `"${quote}"`);
+
+    return {
+      quote,
+      author,
+    };
+  } catch (err) {
+    console.error(err.message);
+    return {};
+  }
+};
+
+const generate = async () => {
+  const { quote, author } = await getQuote();
+
+  if (!quote) return;
+
+  fs.writeFileSync(
+    "README.md",
+    `
   ## Hi there,👋👋 I'm Pham Van Khang 
 
 <p align="center">
@@ -19,6 +49,8 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**If you want to test your memory, try to recall what you were worrying about one year ago today.**_
+  _**${quote}**_\n\n_${author}`
+  );
+};
 
-_E. Joseph Cossman
+generate();
