@@ -1,9 +1,7 @@
-name: update_readme
+name: update-readme
 
 on:
-  # Cho phép chạy bằng tay từ giao diện Github
   workflow_dispatch:
-  # Lên lịch chạy hàng ngày vào lúc 00:00 UTC
   schedule:
     - cron: "0 0 * * *"
 
