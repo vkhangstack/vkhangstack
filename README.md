@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 I'm **Student** | **Coder** |**Hate code**
+- 🔭 I'm **Student** | **Coder** | **Hate code**
 - 🌱 Currently Learning **JavaScript**, **Web Development**
 - 👯 Willing to contribute more and more in **Open Source Projects**
 - ⚡ Hobbies: Reading Book, listening to music, playing game League of Legends
@@ -19,6 +19,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**If you want to test your memory, try to recall what you were worrying about one year ago today.**_
+  _**Do the best you can until you know better. Then when you know better, do better.**_
 
-_E. Joseph Cossman
+_Maya Angelou
