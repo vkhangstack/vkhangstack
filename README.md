@@ -19,6 +19,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**Effort only fully releases its reward after a person refuses to quit.**_
+  _**When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.**_
 
-_Napoleon Hill
+_Jean Shinoda Bolen
