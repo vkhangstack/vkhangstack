@@ -1,5 +1,5 @@
 
-  ## Hi there,👋👋 I'm Pham Van Khang 
+  ## Hi there,👋👋 I'm Phạm Văn Khang 
 
 <p align="center">
 <img width="20%" src="https://github.com/vkhang-stack/vkhang-stack/blob/master/zebra.png"/>
@@ -19,6 +19,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
+  _**I keep asking myself these three questions.. What do you have? What do you want? What will you give up?**_
 
-_Larry Page
+_Jack Ma
