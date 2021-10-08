@@ -29,7 +29,7 @@ const generate = async () => {
   fs.writeFileSync(
     "README.md",
     `
-  ## Hi there,👋👋 I'm Pham Van Khang 
+  ## Hi there,👋👋 I'm Phạm Văn Khang 
 
 <p align="center">
 <img width="20%" src="https://github.com/vkhang-stack/vkhang-stack/blob/master/zebra.png"/>

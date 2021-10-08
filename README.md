@@ -1,12 +1,12 @@
 
-  ## Hi there,👋👋 I'm Pham Van Khang 
+  ## Hi there,👋👋 I'm Phạm Văn Khang 
 
 <p align="center">
 <img width="20%" src="https://github.com/vkhang-stack/vkhang-stack/blob/master/zebra.png"/>
 </p>
 
 
-- 🔭 I'm **Student** | **Coder** |**Hate code**
+- 🔭 I'm **Student** | **Coder** | **Hate code**
 - 🌱 Currently Learning **JavaScript**, **Web Development**
 - 👯 Willing to contribute more and more in **Open Source Projects**
 - ⚡ Hobbies: Reading Book, listening to music, playing game League of Legends
@@ -19,6 +19,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**If you want to test your memory, try to recall what you were worrying about one year ago today.**_
+  _**Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.**_
 
-_E. Joseph Cossman
+_Charles F. Kettering
