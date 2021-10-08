@@ -4,7 +4,7 @@ const fs = require("fs");
 const getQuote = async () => {
   try {
     const { data } = await axios.get(
-      "https://quotes.rest/qod?language=en&quot;"
+      "https://quotes.rest/qod?language=en&quot;",
     );
     const quote = data.contents.quotes[0].quote;
     const author = data.contents.quotes[0].author;
@@ -36,9 +36,8 @@ const generate = async () => {
 </p>
 
 
-- 🔭 I'm **Student** | **Coder** | **Hate code**
+- 🔭 I'm **Student** | **Coder** | **Backend Developer** | **Hate Code**
 - 🌱 Currently Learning **JavaScript**, **Web Development**
-- 👯 Willing to contribute more and more in **Open Source Projects**
 - ⚡ Hobbies: Reading Book, listening to music, playing game League of Legends
 
 ### 💬📫 Feel Free to Contact me.....
@@ -49,7 +48,7 @@ const generate = async () => {
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**${quote}**_\n\n_${author}`
+  _**${quote}**_\n\n_${author}`,
   );
 };
 
