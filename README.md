@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.**_
+  _**Your life does not get better by chance. It gets better by change.**_
 
-_Greg Child
+_Jim Rohn
