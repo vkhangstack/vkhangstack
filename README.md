@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**The man who removes a mountain begins by carrying away small stones..**_
+  _**When you win, say nothing. When you lose, say less.**_
 
-_Chinese Proverb
+_Paul Brown
