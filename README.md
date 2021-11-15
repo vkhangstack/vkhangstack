@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**Stress is like a pulse, if you have it you are alive.**_
+  _**Winning isn't everything.. It's the only thing.**_
 
-_Steve Maraboli
+_Vincent van Gogh
