@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**People who are crazy enough to think they can change the world, are the ones who do.**_
+  _**If you want to test your memory, try to recall what you were worrying about one year ago today.**_
 
-_Apple Computers
+_E. Joseph Cossman
