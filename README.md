@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**If you want to test your memory, try to recall what you were worrying about one year ago today.**_
+  _**What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!**_
 
-_E. Joseph Cossman
+_Larry Page
