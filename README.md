@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**We don't have to do all of it alone. We were never meant to.**_
+  _**If we ever stop thinking about the person we want to become, we stop learning and taking risks.**_
 
-_Brene Brown
+_Sally Blount
