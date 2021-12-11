@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**Effort only fully releases its reward after a person refuses to quit.**_
+  _**A show of confidence raises the bar**_
 
-_Napoleon Hill
+_Lorii Myers
