@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**He who is not courageous enough to take risks will accomplish nothing in life.**_
+  _**Extend beyond your preconceived limits!**_
 
-_Mohamad Ali
+_Lorii Myers
