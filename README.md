@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**Winning is nice if you don't lose your integrity in the process.**_
+  _**If you have dreams it is your responsibility to make them happen.**_
 
-_Arnold Horshak
+_Bel Pesce
