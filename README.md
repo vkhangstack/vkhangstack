@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**Our words are buttressed by our deeds, and our deeds are inspired by our convictions.**_
+  _**Named must your fear be before banish it you can.**_
 
-_Theodore Hesburgh
+_Yoda
