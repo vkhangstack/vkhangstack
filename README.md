@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**If I work as hard as I can, I wonder how much I can do in a day?**_
+  _**You are very powerful, provided you know how powerful you are.**_
 
-_Ezra Taft Benson
+_Yogi Bhajan
