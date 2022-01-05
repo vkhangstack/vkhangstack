@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**It wasn't raining when Noah built the ark..**_
+  _**You will never win if you never begin.**_
 
-_Howard Ruff
+_Helen Rowland
