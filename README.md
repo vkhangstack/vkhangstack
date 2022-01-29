@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**Some men see things as they are and say why.. I dream things that never were and say why not.**_
+  _**People rise to the occasion without hesitation when they feel inspired and challenged.**_
 
-_George Bernard Shaw
+_Lorii Myers
