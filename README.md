@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**People rise to the occasion without hesitation when they feel inspired and challenged.**_
+  _**When you win, say nothing. When you lose, say less.**_
 
-_Lorii Myers
+_Paul Brown
