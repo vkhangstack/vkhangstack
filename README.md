@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success.**_
+  _**Ignition (n): The motivational process that occurs when your identity becomes linked to a long-term vision of your future. Triggers significant amounts of unconscious energy; usually marked by the realization: That is who I want to be.**_
 
-_Vince Lombardi
+_ Daniel Coyle
