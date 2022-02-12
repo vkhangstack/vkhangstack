@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.**_
+  _**Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.**_
 
-_Zaha Hadid
+_Mark Bezos
