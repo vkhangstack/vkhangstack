@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.**_
+  _**We lose ourselves in the things we love. We find ourselves there, too.**_
 
-_Bill Murray
+_Dale Patridge
