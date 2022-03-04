@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**You make a living by what you earn; you make a life by what you give.**_
+  _**Let our advance worrying become advance thinking and planning.**_
 
 _Winston Churchill
