@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**Luck is a dividend of sweat. The more you sweat, the luckier you get**_
+  _**Great things are done by a series of small things brought together.**_
 
-_Ray Kroc
+_Vincent Van Gogh
