@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**If you cannot do great things, do small things in a great way.**_
+  _**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
 
-_Napoleon Hill
+_Larry Page
