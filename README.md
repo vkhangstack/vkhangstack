@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**Your overnight success story is always a result of everything you have done in your life until that moment.**_
+  _**The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better**_
 
-_Bel Pesce
+_Barbara Pletcher
