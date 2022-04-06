@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.**_
+  _**Winning isn't everything.. It's the only thing.**_
 
-_Steve Maraboli
+_Vincent van Gogh
