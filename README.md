@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**Whether you think you can or think you can't, you're right..**_
+  _**I am an optimist. It does not seem too much use being anything else..**_
 
-_Henry Ford
+_Winston Churchill
