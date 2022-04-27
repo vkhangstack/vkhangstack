@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**Those who know how to win are much more numerous than those who know how to make proper use of their victories**_
+  _**Vision without action is daydream. Action without vision is nightmare..**_
 
-_Polybius
+_Japanese Proverb
