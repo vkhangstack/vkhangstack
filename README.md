@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**The real opportunity for success lies within the person and not in the job.**_
+  _**We lose ourselves in the things we love. We find ourselves there, too.**_
 
-_Zig Ziglar
+_Dale Patridge
