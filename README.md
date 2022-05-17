@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**Remove the temptation to settle for anything short of what you deserve.**_
+  _**Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.**_
 
-_Lorii Myers
+_Matthew Keith Groves
