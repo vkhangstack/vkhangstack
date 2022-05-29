@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**Vision without action is daydream. Action without vision is nightmare..**_
+  _**There's such a thin line between winning and losing.**_
 
-_Japanese Proverb
+_John R. Tunis
