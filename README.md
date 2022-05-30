@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**There's such a thin line between winning and losing.**_
+  _**When there is no distraction, there is clarity.**_
 
-_John R. Tunis
+_Lorii Myers
