@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**Don't be tempted to break momentum-work through it.**_
+  _**Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.**_
 
 _Lorii Myers
