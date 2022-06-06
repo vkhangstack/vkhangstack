@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.**_
+  _**Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.**_
 
-_William James Moore
+_Charles F. Kettering
