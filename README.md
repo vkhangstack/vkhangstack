@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**If you like what you do, and you're lucky enough to be good at it, do it for that reason.**_
+  _**Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.**_
 
-_Phil Grimshaw
+_Mark Bezos
