@@ -18,6 +18,6 @@
 	<a href="https://twitter.com/hx10r"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-  _**What you do speaks so loudly that I cannot hear what you say.**_
+  _**You will never win if you never begin.**_
 
-_Ralph Waldo Emerson
+_Helen Rowland
