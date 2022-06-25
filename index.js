@@ -29,7 +29,7 @@ const generate = async () => {
   fs.writeFileSync(
     "README.md",
     `
-  ## Hi there,👋👋 I'm Phạm Văn Khang 
+  ## Hi there,👋👋 I'm Pham Van Khang 
 
   _**${quote}**_\n\n_${author}`,
   );
