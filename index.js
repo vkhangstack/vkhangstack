@@ -30,6 +30,8 @@ const generate = async () => {
     "README.md",
     `
   ## Hi there,👋👋 I'm Pham Van Khang 
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
   _**${quote}**_\n\n_${author}`,
   );
