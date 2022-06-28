@@ -1,6 +1,8 @@
 
   ## Hi there,👋👋 I'm Pham Van Khang 
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**You must be the change you want to see in the world..**_
+  _**A show of confidence raises the bar**_
 
-_M.K. Gandhi
+_Lorii Myers
