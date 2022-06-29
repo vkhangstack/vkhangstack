@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**A show of confidence raises the bar**_
+  _**It is easy to sit up and take notice, What is difficult is getting up and taking action.**_
 
-_Lorii Myers
+_Honore de Balzac
