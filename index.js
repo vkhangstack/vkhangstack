@@ -4,12 +4,12 @@ const fs = require("fs");
 const getQuote = async () => {
   try {
     const { data } = await axios.get(
-      "https://quotes.rest/qod?language=en&quot;",
+      "https://stage-api-quotes.herokuapp.com/api/query?quote=random"
     );
-    const quote = data.contents.quotes[0].quote;
-    const author = data.contents.quotes[0].author;
+    const quote = data.quote;
+    const author = data.author;
 
-    console.log("new quote", `"${quote}"`);
+    console.log("new quote", `"${quote}" - ${author}`);
 
     return {
       quote,
@@ -33,7 +33,7 @@ const generate = async () => {
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**${quote}**_\n\n_${author}`,
+  _**${quote}**_\n\n_${author}`
   );
 };
 
