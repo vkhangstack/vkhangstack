@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Winning isn't everything.. It's the only thing.**_
+  _**Hãy thay đổi trước khi bạn bắt buộc phải làm điều đó.**_
 
-_Vincent van Gogh
+_Jack Welch
