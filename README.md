@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Hãy yêu cuộc sống mà bạn đang sống. Và sống cách sống mà bạn yêu.**_
+  _**Luôn luôn có ánh sáng đằng sau những đám mây.**_
 
-_Bob Marley
+_Louisa May Alcott
