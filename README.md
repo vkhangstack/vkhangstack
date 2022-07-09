@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Cách duy nhất để tạo nên sự nghiệp vĩ đại là yêu những gì bạn làm. Nếu bạn chưa tìm ra nó, hãy tiếp tục tìm kiếm. Đừng dừng lại.**_
+  _**Không bao giờ được từ bỏ ước mơ chỉ vì mất quá nhiều thời gian để thực hiện. Dù sao thì thời gian cũng sẽ trôi đi mà thôi.**_
 
-_Steve Jobs
+_Earl Nightingale
