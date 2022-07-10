@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Không bao giờ được từ bỏ ước mơ chỉ vì mất quá nhiều thời gian để thực hiện. Dù sao thì thời gian cũng sẽ trôi đi mà thôi.**_
+  _**Luôn luôn có ánh sáng đằng sau những đám mây.**_
 
-_Earl Nightingale
+_Louisa May Alcott
