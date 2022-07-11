@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Luôn luôn có ánh sáng đằng sau những đám mây.**_
+  _**Cách duy nhất để tạo nên sự nghiệp vĩ đại là yêu những gì bạn làm. Nếu bạn chưa tìm ra nó, hãy tiếp tục tìm kiếm. Đừng dừng lại.**_
 
-_Louisa May Alcott
+_Steve Jobs
