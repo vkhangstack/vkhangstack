@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Hãy yêu cuộc sống mà bạn đang sống. Và sống cách sống mà bạn yêu.**_
+  _**Đừng so sánh mình với bất cứ ai trong thế giới này. Nếu bạn làm như vậy có nghĩa bạn đang sỉ nhục chính bản thân mình. **_
 
-_Bob Marley
+_Bill Gates 
