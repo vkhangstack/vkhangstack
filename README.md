@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Hãy xây nên giấc mơ của bạn, nếu không thì người khác sẽ thuê bạn xây giấc mơ của họ.**_
+  _**Tất cả mọi thành công trên đời đều là do luyện tập mà thành.**_
 
-_Farrah Gray 
+_Pele
