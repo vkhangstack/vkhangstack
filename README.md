@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Tất cả mọi thành công trên đời đều là do luyện tập mà thành.**_
+  _**Chúng ta phải lựa chọn: nỗi đau của sự kỷ luật hay nỗi đau của sự hối hận.**_
 
-_Pele
+_Jim Rohn
