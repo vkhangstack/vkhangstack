@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Hãy nhanh chóng nhưng đừng vội vàng.**_
+  _**Mọi thứ đều có vẻ là không tưởng cho đến khi nó được hoàn thành.**_
 
-_Khuyết danh
+_Nelson Mandela
