@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Mọi thứ đều có vẻ là không tưởng cho đến khi nó được hoàn thành.**_
+  _**Chúng ta phải lựa chọn: nỗi đau của sự kỷ luật hay nỗi đau của sự hối hận.**_
 
-_Nelson Mandela
+_Jim Rohn
