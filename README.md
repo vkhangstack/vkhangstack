@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Hãy thay đổi trước khi bạn bắt buộc phải làm điều đó.**_
+  _**Hãy nhanh chóng nhưng đừng vội vàng.**_
 
-_Jack Welch
+_Khuyết danh
