@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Chúng ta phải lựa chọn: nỗi đau của sự kỷ luật hay nỗi đau của sự hối hận.**_
+  _**Hãy thay đổi trước khi bạn bắt buộc phải làm điều đó.**_
 
-_Jim Rohn
+_Jack Welch
