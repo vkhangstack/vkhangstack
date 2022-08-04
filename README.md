@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Hãy xây nên giấc mơ của bạn, nếu không thì người khác sẽ thuê bạn xây giấc mơ của họ.**_
+  _**Mọi thứ đều có vẻ là không tưởng cho đến khi nó được hoàn thành.**_
 
-_Farrah Gray 
+_Nelson Mandela
