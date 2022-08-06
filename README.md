@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Hãy xây nên giấc mơ của bạn, nếu không thì người khác sẽ thuê bạn xây giấc mơ của họ.**_
+  _**Hãy thay đổi trước khi bạn bắt buộc phải làm điều đó.**_
 
-_Farrah Gray 
+_Jack Welch
