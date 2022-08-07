@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Hãy thay đổi trước khi bạn bắt buộc phải làm điều đó.**_
+  _**Đừng so sánh mình với bất cứ ai trong thế giới này. Nếu bạn làm như vậy có nghĩa bạn đang sỉ nhục chính bản thân mình. **_
 
-_Jack Welch
+_Bill Gates 
