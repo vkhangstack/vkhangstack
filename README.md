@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Đừng so sánh mình với bất cứ ai trong thế giới này. Nếu bạn làm như vậy có nghĩa bạn đang sỉ nhục chính bản thân mình. **_
+  _**Hãy nhanh chóng nhưng đừng vội vàng.**_
 
-_Bill Gates 
+_Khuyết danh
