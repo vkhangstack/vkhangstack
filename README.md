@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Hãy nhanh chóng nhưng đừng vội vàng.**_
+  _**Luôn luôn có ánh sáng đằng sau những đám mây.**_
 
-_Khuyết danh
+_Louisa May Alcott
