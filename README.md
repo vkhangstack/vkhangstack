@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Luôn luôn có ánh sáng đằng sau những đám mây.**_
+  _**Tất cả mọi thành công trên đời đều là do luyện tập mà thành.**_
 
-_Louisa May Alcott
+_Pele
