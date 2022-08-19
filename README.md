@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Hãy yêu cuộc sống mà bạn đang sống. Và sống cách sống mà bạn yêu.**_
+  _**Hãy thay đổi trước khi bạn bắt buộc phải làm điều đó.**_
 
-_Bob Marley
+_Jack Welch
