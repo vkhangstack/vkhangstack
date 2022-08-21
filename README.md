@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Hôm nay bạn xấu. Thì mai bạn đẹp**_
+  _**Tất cả mọi thành công trên đời đều là do luyện tập mà thành.**_
 
-_ Khuyết danh
+_Pele
