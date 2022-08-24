@@ -4,7 +4,7 @@ const fs = require("fs");
 const getQuote = async () => {
   try {
     const { data } = await axios.get(
-      "https://stage-api-quotes.herokuapp.com/api/query?quote=random"
+      "http://api.quotes.phamvankhang.name.vn/random"
     );
     const quote = data.data.data.quote;
     const author = data.data.data.author;
