@@ -6,8 +6,8 @@ const getQuote = async () => {
     const { data } = await axios.get(
       "http://api.quotes.phamvankhang.name.vn/random"
     );
-    const quote = data.data.data.quote;
-    const author = data.data.data.author;
+    const quote = data.response.data.quote;
+    const author = data.response.data.author;
 
     console.log("new quote", `"${quote}" - ${author}`);
 
