@@ -22,8 +22,8 @@ jobs:
       - name: Update README.md
         # Push file README.md đã được thay đổi lên github
         run: |
-          git config --global user.email "thanghayphacode@gmail.com"
-          git config --global user.name "vkhangstack"
+          git config --global user.email "phamvankhang.tvi@gmail.com"
+          git config --global user.name "Khang Pham"
           git add .
           git commit -m "Updated README.md" || echo "No changes to commit"
           git push origin master
