@@ -6,8 +6,8 @@ const getQuote = async () => {
     const { data } = await axios.get(
       "https://stage-api-quotes.herokuapp.com/api/query?quote=random"
     );
-    const quote = data.quote;
-    const author = data.author;
+    const quote = data.data.data.quote;
+    const author = data.data.data.author;
 
     console.log("new quote", `"${quote}" - ${author}`);
 
