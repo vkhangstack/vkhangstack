@@ -3,6 +3,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Music in the soul can be heard by the universe.**_
+  _**The person born with a talent they are meant to use will find their greatest happiness in using it.**_
 
-_Laozi
+_Johann Wolfgang von Goethe
