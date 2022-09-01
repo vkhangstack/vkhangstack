@@ -29,8 +29,8 @@ const generate = async () => {
   fs.writeFileSync(
     "README.md",
     `
-  ## Hi there,👋👋 I'm Pham Van Khang 
-  
+  ## Github Profile of Pham Van Khang
+[![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)  
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
   _**${quote}**_\n\n_${author}`
