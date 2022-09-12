@@ -3,6 +3,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)  
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**All our dreams can come true, if we have the courage to pursue them.**_
+  _**It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more.**_
 
-_Walt Disney
+_Woody Allen
