@@ -3,6 +3,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)  
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**All our dreams can come true, if we have the courage to pursue them.**_
+  _**Wisdom is found only in truth.**_
 
-_Walt Disney
+_Johann Wolfgang von Goethe
