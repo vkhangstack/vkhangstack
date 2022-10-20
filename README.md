@@ -3,6 +3,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)  
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  _**Wisdom is found only in truth.**_
+  _**You only live once, but if you do it right, once is enough.**_
 
-_Johann Wolfgang von Goethe
+_Mae West
