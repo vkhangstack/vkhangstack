@@ -6,8 +6,8 @@ const getQuote = async () => {
     const { data } = await axios.get(
       "https://api.quotable.io/random"
     );
-    const quote = data.response.data.quote;
-    const author = data.response.data.author;
+    const quote = data.response.quote;
+    const author = data.response.author;
 
     console.log("new quote", `"${quote}" - ${author}`);
 
