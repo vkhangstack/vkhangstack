@@ -4,7 +4,7 @@ const fs = require("fs");
 const getQuote = async () => {
   try {
     const { data } = await axios.get(
-      "http://api.quotes.phamvankhang.name.vn/random"
+      "https://api.quotable.io/random"
     );
     const quote = data.response.data.quote;
     const author = data.response.data.author;
