@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Your attitude, not your aptitude, will determine your altitude. - Zig Ziglar
+     There is no charm equal to tenderness of heart. - Jane Austen
