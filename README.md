@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     If you correct your mind, the rest of your life will fall into place. - Laozi
+     So long as a person is capable of self-renewal they are a living being. - Henri-Frédéric Amiel
