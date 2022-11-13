@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started. - Henry Ward Beecher
+     You do not become good by trying to be good, but by finding the goodness that is already within you. - Eckhart Tolle
