@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     You do not become good by trying to be good, but by finding the goodness that is already within you. - Eckhart Tolle
+     Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict. - William Ellery Channing
