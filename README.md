@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict. - William Ellery Channing
+     Remember that the most valuable antiques are dear old friends. - H. Jackson Brown Jr.
