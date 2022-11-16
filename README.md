@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Remember that the most valuable antiques are dear old friends. - H. Jackson Brown Jr.
+     Impossibilities are merely things which we have not yet learned. - Charles W. Chesnutt
