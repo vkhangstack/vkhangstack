@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Impossibilities are merely things which we have not yet learned. - Charles W. Chesnutt
+     Trying to sneak a fastball past Hank Aaron is like trying to sneak the sunrise past a rooster. - Joe Adcock
