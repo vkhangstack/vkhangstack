@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     He that respects himself is safe from others; he wears a coat of mail that none can pierce. - Henry Wadsworth Longfellow
+     Time you enjoy wasting, was not wasted. - John Lennon
