@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do. - Kahlil Gibran
+     To acquire knowledge, one must study; but to acquire wisdom, one must observe. - Marilyn vos Savant
