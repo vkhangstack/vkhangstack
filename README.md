@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     To acquire knowledge, one must study; but to acquire wisdom, one must observe. - Marilyn vos Savant
+     Independence is happiness. - Susan B. Anthony
