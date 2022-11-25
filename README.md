@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     It may happen sometimes that a long debate becomes the cause of a longer friendship. Commonly, those who dispute with one another at last agree. - Elbert Hubbard
+     Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values. - Sidney Hook
