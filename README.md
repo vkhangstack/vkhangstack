@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values. - Sidney Hook
+     Good advice is always certain to be ignored, but that's no reason not to give it. - Agatha Christie
