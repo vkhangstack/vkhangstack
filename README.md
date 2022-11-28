@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Good advice is always certain to be ignored, but that's no reason not to give it. - Agatha Christie
+     You can't blame gravity for falling in love. - Albert Einstein
