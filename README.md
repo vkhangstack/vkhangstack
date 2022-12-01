@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Nine-tenths of wisdom is being wise in time. - Theodore Roosevelt
+     Kind words can be short and easy to speak, but their echoes are truly endless. - Mother Teresa
