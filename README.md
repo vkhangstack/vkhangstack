@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Kind words can be short and easy to speak, but their echoes are truly endless. - Mother Teresa
+     To keep your secret is wisdom; but to expect others to keep it is folly. - Samuel Johnson
