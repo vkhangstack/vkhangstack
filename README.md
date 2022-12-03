@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     To keep your secret is wisdom; but to expect others to keep it is folly. - Samuel Johnson
+     A man should look for what is, and not for what he thinks should be. - Albert Einstein
