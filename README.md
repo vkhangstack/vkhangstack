@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     A man should look for what is, and not for what he thinks should be. - Albert Einstein
+     Be your own hero, it's cheaper than a movie ticket. - Doug Horton
