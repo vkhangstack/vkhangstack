@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Be your own hero, it's cheaper than a movie ticket. - Doug Horton
+     Sometimes the most important thing in a whole day is the rest we take between two deep breaths. - Etty Hillesum
