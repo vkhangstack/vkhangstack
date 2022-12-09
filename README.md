@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration. - Niccolò Machiavelli
+     I will prepare and someday my chance will come. - Abraham Lincoln
