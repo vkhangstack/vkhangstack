@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     If you can't feed a hundred people, then feed just one. - Mother Teresa
+     In order to succeed, we must first believe that we can. - Nikos Kazantzakis
