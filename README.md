@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Trust is the lubrication that makes it possible for organizations to work. - Warren Bennis
+     No yesterdays are ever wasted for those who give themselves to today. - Brendan Behan
