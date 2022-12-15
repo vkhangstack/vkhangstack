@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     No yesterdays are ever wasted for those who give themselves to today. - Brendan Behan
+     A poem begins in delight and ends in wisdom. - Robert Frost
