@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     A poem begins in delight and ends in wisdom. - Robert Frost
+     A man's growth is seen in the successive choirs of his friends - Ralph Waldo Emerson
