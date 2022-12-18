@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Genius is one percent inspiration and ninety-nine percent perspiration. - Thomas Edison
+     It has never been my object to record my dreams, just to realize them. - Man Ray
