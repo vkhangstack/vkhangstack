@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     It has never been my object to record my dreams, just to realize them. - Man Ray
+     A friend is what the heart needs all the time. - Henry van Dyke Jr.
