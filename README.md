@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Everything that happens as it should, and if you observe carefully, you will find this to be so. - Marcus Aurelius
+     Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart. - Marcus Aurelius
