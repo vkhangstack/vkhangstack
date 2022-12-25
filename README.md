@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value. - Isaac Asimov
+     Choose a job you love, and you will never have to work a day in your life. - Confucius
