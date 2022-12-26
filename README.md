@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Choose a job you love, and you will never have to work a day in your life. - Confucius
+     The secret of success is constancy to purpose. - Benjamin Disraeli
