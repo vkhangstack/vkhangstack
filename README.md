@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     The secret of success is constancy to purpose. - Benjamin Disraeli
+     The world is round and the place which may seem like the end may also be the beginning. - Ivy Baker Priest
