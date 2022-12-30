@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Most powerful is he who has himself in his own power. - Seneca the Younger
+     I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder. - G. K. Chesterton
