@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder. - G. K. Chesterton
+     Bad times have a scientific value. These are occasions a good learner would not miss. - Ralph Waldo Emerson
