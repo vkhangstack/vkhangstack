@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Bad times have a scientific value. These are occasions a good learner would not miss. - Ralph Waldo Emerson
+     From error to error one discovers the entire truth. - Sigmund Freud
