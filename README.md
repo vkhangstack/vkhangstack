@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     If opportunity doesn't knock, build a door. - Milton Berle
+     You cannot step twice into the same river, for other waters are continually flowing in. - Heraclitus
