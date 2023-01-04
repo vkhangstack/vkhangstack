@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     You cannot step twice into the same river, for other waters are continually flowing in. - Heraclitus
+     The virtue of justice consists in moderation, as regulated by wisdom. - Aristotle
