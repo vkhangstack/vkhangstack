@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     The virtue of justice consists in moderation, as regulated by wisdom. - Aristotle
+     It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something. - Franklin D. Roosevelt
