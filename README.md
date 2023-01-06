@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something. - Franklin D. Roosevelt
+     Whatever you do in life, surround yourself with smart people who'll argue with you. - John Wooden
