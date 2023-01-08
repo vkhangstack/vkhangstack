@@ -14,9 +14,7 @@
       }
 ```
 
- <div style="position: absolute; right: 0; top: 80px; width: 150px; height: 150px;">
-        <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
- </div>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200px"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
