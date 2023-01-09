@@ -1,6 +1,5 @@
-     ## Github Profile of Pham Van Khang
 
-```js
+     ## Github Profile of Pham Van Khang
       {
         "name": "Pham Van Khang",
         "job: "Fullstack Developer",
@@ -8,15 +7,12 @@
         "email": "phamvankhang.tvi@gmail.com",
         "github": "https://github.com/vkhangstack",
         "linkedin": "https://www.linkedin.com/in/vkhangstack",
-        "description": "As a dynamic person and interested in learning a lot
-        of new  knowledge, I wanna improve my English language and programming
-        skills to become a professional developer.",
+        "description": "As a dynamic person and interested in learning a lot of new 
+        knowledge, I wanna improve my English language and programming skills to 
+        become a professional developer.",
       }
-```
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" with="400px" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
-
-     Friendship is a very taxing and arduous form of leisure activity. - Mortimer J. Adler
+     Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always. - Oprah Winfrey
