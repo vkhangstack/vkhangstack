@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Nine-tenths of wisdom is being wise in time. - Theodore Roosevelt
+     The years teach much which the days never know. - Ralph Waldo Emerson
