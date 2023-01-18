@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     If you don't know where you are going, any road will get you there. - Lewis Carroll
+     The greatest mistake you can make in life is to be continually fearing you will make one. - Elbert Hubbard
