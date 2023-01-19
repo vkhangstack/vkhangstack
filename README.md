@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     The greatest mistake you can make in life is to be continually fearing you will make one. - Elbert Hubbard
+     Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing. - Elie Wiesel
