@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     I believe that we are fundamentally the same and have the same basic potential. - Dalai Lama
+     Failure doesn't mean you are a failure it just means you haven't succeeded yet. - Robert Schuller
