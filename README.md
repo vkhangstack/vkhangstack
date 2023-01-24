@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Failure doesn't mean you are a failure it just means you haven't succeeded yet. - Robert Schuller
+     Sincerity is the way of Heaven. The attainment of sincerity is the way of men. - Confucius
