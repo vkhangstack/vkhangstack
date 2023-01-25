@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Sincerity is the way of Heaven. The attainment of sincerity is the way of men. - Confucius
+     Go to your bosom: Knock there and ask your heart what it doth know. - William Shakespeare
