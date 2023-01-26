@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Go to your bosom: Knock there and ask your heart what it doth know. - William Shakespeare
+     Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind. - Henry James
