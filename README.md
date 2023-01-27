@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind. - Henry James
+     He who lives in harmony with himself lives in harmony with the universe. - Marcus Aurelius
