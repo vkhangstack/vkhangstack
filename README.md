@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     He who lives in harmony with himself lives in harmony with the universe. - Marcus Aurelius
+     Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born. - Anaïs Nin
