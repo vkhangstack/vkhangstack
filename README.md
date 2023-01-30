@@ -15,4 +15,4 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     The more you know yourself, the more you forgive yourself. - Confucius
+     With the new day comes new strength and new thoughts. - Eleanor Roosevelt
