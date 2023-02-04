@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     What the caterpillar calls the end of the world, the master calls a butterfly. - Richard Bach
+     How we spend our days is, of course, how we spend our lives. - Annie Dillard
