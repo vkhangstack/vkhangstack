@@ -12,10 +12,10 @@
         become a professional developer.",
       }
   
-//   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" with="400px" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" with="400px" />
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     How we spend our days is, of course, how we spend our lives. - Annie Dillard
+     Blessed is the man who expects nothing, for he shall never be disappointed. - Alexander Pope
