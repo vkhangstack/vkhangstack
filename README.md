@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Blessed is the man who expects nothing, for he shall never be disappointed. - Alexander Pope
+     The superior man is modest in his speech but exceeds in his actions. - Confucius
