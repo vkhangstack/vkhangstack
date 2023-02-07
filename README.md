@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     The superior man is modest in his speech but exceeds in his actions. - Confucius
+     One of the most beautiful qualities of true friendship is to understand and to be understood. - Seneca the Younger
