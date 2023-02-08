@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     One of the most beautiful qualities of true friendship is to understand and to be understood. - Seneca the Younger
+     Start with what is right rather than what is acceptable. - Franz Kafka
