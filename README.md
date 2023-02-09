@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Start with what is right rather than what is acceptable. - Franz Kafka
+     Unless one is able to live fully in the present, the future is a hoax. - Alan Watts
