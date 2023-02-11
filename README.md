@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness. - Rumi
+     If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace. - Dalai Lama
