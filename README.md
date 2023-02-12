@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace. - Dalai Lama
+     Fortune befriends the bold. - John Dryden
