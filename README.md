@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Fortune befriends the bold. - John Dryden
+     At the center of your being, you have the answer; you know who you are, and you know what you want. - Laozi
