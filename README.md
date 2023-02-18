@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Our work is the presentation of our capabilities. - Edward Gibbon
+     We must not allow ourselves to become like the system we oppose. - Desmond Tutu
