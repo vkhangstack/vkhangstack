@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     We must not allow ourselves to become like the system we oppose. - Desmond Tutu
+     If you correct your mind, the rest of your life will fall into place. - Laozi
