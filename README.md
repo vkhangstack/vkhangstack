@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     If you correct your mind, the rest of your life will fall into place. - Laozi
+     Wisdom is the right use of knowledge. To know is not to be wise. Many men know a great deal and are all the greater fools for it. There is no fool so great a fool as a knowing fool. But to know how to use knowledge is to have wisdom. - Charles Spurgeon
