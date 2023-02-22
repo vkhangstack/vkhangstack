@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     The best cure for the body is a quiet mind. - Napoleon
+     While we stop to think, we often miss our opportunity. - Publilius Syrus
