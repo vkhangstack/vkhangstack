@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     While we stop to think, we often miss our opportunity. - Publilius Syrus
+     You cannot be lonely if you like the person you're alone with. - Wayne Dyer
