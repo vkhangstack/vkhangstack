@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     You cannot be lonely if you like the person you're alone with. - Wayne Dyer
+     No matter how hard the past, you can always begin again. - Buddha
