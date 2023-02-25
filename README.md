@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     No matter how hard the past, you can always begin again. - Buddha
+     Argue for your limitations, and sure enough they're yours. - Richard Bach
