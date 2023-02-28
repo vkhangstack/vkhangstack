@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away. - Robert Fulghum
+     Change your life today. Don't gamble on the future, act now, without delay. - Simone de Beauvoir
