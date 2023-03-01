@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Change your life today. Don't gamble on the future, act now, without delay. - Simone de Beauvoir
+     TV and the Internet are good because they keep stupid people from spending too much time out in public. - Douglas Coupland
