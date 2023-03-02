@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     TV and the Internet are good because they keep stupid people from spending too much time out in public. - Douglas Coupland
+     The best argument against democracy is a five-minute conversation with the average voter. - Winston Churchill
