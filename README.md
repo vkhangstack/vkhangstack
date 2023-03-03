@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     The best argument against democracy is a five-minute conversation with the average voter. - Winston Churchill
+     Nothing in life is to be feared. It is only to be understood. - Marie Curie
