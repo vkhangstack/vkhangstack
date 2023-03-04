@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Nothing in life is to be feared. It is only to be understood. - Marie Curie
+     Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born. - Anaïs Nin
