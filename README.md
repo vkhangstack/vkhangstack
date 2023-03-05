@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born. - Anaïs Nin
+     It is not only for what we do that we are held responsible, but also for what we do not do. - Molière
