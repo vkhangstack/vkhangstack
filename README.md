@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     It is not only for what we do that we are held responsible, but also for what we do not do. - Molière
+     To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect. - Joan Didion
