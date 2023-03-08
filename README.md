@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     In action a great heart is the chief qualification. In work, a great head. - Arthur Schopenhauer
+     We must become the change we want to see. - Mahatma Gandhi
