@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     We must become the change we want to see. - Mahatma Gandhi
+     The truth is not for all men, but only for those who seek it. - Ayn Rand
