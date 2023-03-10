@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     The truth is not for all men, but only for those who seek it. - Ayn Rand
+     In the middle of every difficulty lies opportunity. - Albert Einstein
