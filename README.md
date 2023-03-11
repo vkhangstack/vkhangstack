@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     In the middle of every difficulty lies opportunity. - Albert Einstein
+     Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world. - Lucille Ball
