@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world. - Lucille Ball
+     We never live; we are always in the expectation of living. - Voltaire
