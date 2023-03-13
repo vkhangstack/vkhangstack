@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     We never live; we are always in the expectation of living. - Voltaire
+     No bird soars too high if he soars with his own wings. - William Blake
