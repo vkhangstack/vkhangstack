@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     No bird soars too high if he soars with his own wings. - William Blake
+     Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children. - Kahlil Gibran
