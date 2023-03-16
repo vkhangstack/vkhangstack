@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     He who knows, does not speak. He who speaks, does not know. - Laozi
+     Work out your own salvation. Do not depend on others. - Buddha
