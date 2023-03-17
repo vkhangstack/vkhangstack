@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Work out your own salvation. Do not depend on others. - Buddha
+     If you don't like something, change it. If you can't change it, change your attitude. - Maya Angelou
