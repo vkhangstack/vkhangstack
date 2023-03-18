@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     If you don't like something, change it. If you can't change it, change your attitude. - Maya Angelou
+     Can you imagine what I would do if I could do all I can? - Sun Tzu
