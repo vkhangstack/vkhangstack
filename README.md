@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens. - Pema Chödrön
+     Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom. - Marcel Proust
