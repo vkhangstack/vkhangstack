@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom. - Marcel Proust
+     Don't look back. Something might be gaining on you. - Satchel Paige
