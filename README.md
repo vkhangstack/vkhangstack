@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     It is more shameful to distrust our friends than to be deceived by them. - Confucius
+     You have to get used to failure. - Jack Ma
