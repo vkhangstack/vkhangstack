@@ -3,7 +3,7 @@ const fs = require("fs")
 
 const getQuote = async () => {
   try {
-    const { data } = await axios.get("https://api.quotable.io/random")
+    const { data } = await axios.get("https://quotes.phamvankhang.name.vn/random?licenseKey=ccd21941303c2b6ad396661854c16cf0514189af21aa6263dc4d31a04b762c8f")
     console.log(data)
     const quote = data.content
     const author = data.author
