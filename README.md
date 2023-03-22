@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Don't look back. Something might be gaining on you. - Satchel Paige
+     It is more shameful to distrust our friends than to be deceived by them. - Confucius
