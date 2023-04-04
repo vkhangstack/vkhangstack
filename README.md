@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     You have to get used to failure. - Jack Ma
+     Time moves in one direction, memory in another. - William Gibson
