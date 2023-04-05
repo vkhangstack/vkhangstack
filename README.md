@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Time moves in one direction, memory in another. - William Gibson
+     Whatever you are, be a good one. - Abraham Lincoln
