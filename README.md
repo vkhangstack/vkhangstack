@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Whatever you are, be a good one. - Abraham Lincoln
+     As entrepreneurs, if you’re not optimistic, you’re in trouble.” “So the people I choose, they have to be optimistic. - Jack Ma
