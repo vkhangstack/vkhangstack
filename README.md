@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     A good boss is better than a good company. - Jack Ma
+     If you’re going through hell, keep going. - Winston Churchill
