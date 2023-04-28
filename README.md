@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     You cannot explore the universe if you think that you are the center of it. - Joshua Suya Pelicano
+     Life is 10% what happens to you and 90% how you react to it. - Charles R. Swindoll
