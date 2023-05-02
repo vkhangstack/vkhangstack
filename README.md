@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     If you’re going through hell, keep going. - Winston Churchill
+     Fail many times - You will succeess - Pham Van Khang
