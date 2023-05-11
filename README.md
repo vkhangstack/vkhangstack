@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     There is no substitute for hard work. - Thomas Edison
+     You have to get used to failure. - Jack Ma
