@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Fail many times - You will succeess - Pham Van Khang
+     Today, you have 100% of your life left. - Tom Landry
