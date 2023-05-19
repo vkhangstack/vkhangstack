@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Time moves in one direction, memory in another. - William Gibson
+     You cannot explore the universe if you think that you are the center of it. - Joshua Suya Pelicano
