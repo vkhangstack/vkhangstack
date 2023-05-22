@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     There is no substitute for hard work. - Thomas Edison
+     Life’s tough, but it’s tougher when you’re stupid. - John Wayne
