@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     A good boss is better than a good company. - Jack Ma
+     Fail many times - You will succeess - Pham Van Khang
