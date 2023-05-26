@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Be so good they can’t ignore you. - Steve Martin
+     A good boss is better than a good company. - Jack Ma
