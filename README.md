@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Life is 10% what happens to you and 90% how you react to it. - Charles R. Swindoll
+     Luck is very important. Of course, you can't wait for luck, because it won't come. While you start a journey, luck may eventually come to you. - Jack Ma
