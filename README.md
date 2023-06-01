@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     As entrepreneurs, if you’re not optimistic, you’re in trouble.” “So the people I choose, they have to be optimistic. - Jack Ma
+     Life’s tough, but it’s tougher when you’re stupid. - John Wayne
