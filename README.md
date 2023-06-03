@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Whatever you are, be a good one. - Abraham Lincoln
+     Every man dies. Not every man lives. - William Wallace
