@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Opportunity lies in the place where the complaints are. - Jack Ma
+     Life’s tough, but it’s tougher when you’re stupid. - John Wayne
