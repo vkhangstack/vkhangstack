@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Every man dies. Not every man lives. - William Wallace
+     If you’re going through hell, keep going. - Winston Churchill
