@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Today, you have 100% of your life left. - Tom Landry
+     Life shrinks or expands in proportion to one’s courage. - Anais Nin
