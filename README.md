@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Life shrinks or expands in proportion to one’s courage. - Anais Nin
+     Don’t let yesterday take up too much of today. - Will Rogers
