@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Life’s tough, but it’s tougher when you’re stupid. - John Wayne
+     Life is 10% what happens to you and 90% how you react to it. - Charles R. Swindoll
