@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     As you know, life is an echo; we get what we give. - David DeNotaris
+     You can’t cross the sea merely by standing and staring at the water. - Rabindranath Tagore
