@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     There is no substitute for hard work. - Thomas Edison
+     The very important thing you should have is patience. - Jack Ma
