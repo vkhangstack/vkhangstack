@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Whatever you are, be a good one. - Abraham Lincoln
+     Be so good they can’t ignore you. - Steve Martin
