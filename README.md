@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Cuộc sống luôn đong đầy những điều tốt đẹp, trong đó có cả bạn. - Khuyết danh
+     Be so good they can’t ignore you. - Steve Martin
