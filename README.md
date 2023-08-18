@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Nobody who ever gave his best regretted it. - George Halas
+     There is no substitute for hard work. - Thomas Edison
