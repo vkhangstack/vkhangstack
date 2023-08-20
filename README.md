@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Cuộc sống luôn đong đầy những điều tốt đẹp, trong đó có cả bạn. - Khuyết danh
+     You can’t cross the sea merely by standing and staring at the water. - Rabindranath Tagore
