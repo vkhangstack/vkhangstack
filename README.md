@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     You can’t cross the sea merely by standing and staring at the water. - Rabindranath Tagore
+     Luck is very important. Of course, you can't wait for luck, because it won't come. While you start a journey, luck may eventually come to you. - Jack Ma
