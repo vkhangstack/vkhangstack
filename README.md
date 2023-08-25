@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Opportunity lies in the place where the complaints are. - Jack Ma
+     If you’re going through hell, keep going. - Winston Churchill
