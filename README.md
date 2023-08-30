@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Fail many times - You will succeess - Pham Van Khang
+     Don’t let yesterday take up too much of today. - Will Rogers
