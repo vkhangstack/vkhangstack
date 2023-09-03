@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Every man dies. Not every man lives. - William Wallace
+     There is no substitute for hard work. - Thomas Edison
