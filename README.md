@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     As you know, life is an echo; we get what we give. - David DeNotaris
+     Life’s tough, but it’s tougher when you’re stupid. - John Wayne
