@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     You have to get used to failure. - Jack Ma
+     Opportunity lies in the place where the complaints are. - Jack Ma
