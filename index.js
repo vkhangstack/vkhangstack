@@ -3,7 +3,7 @@ const fs = require("fs")
 
 const getQuote = async () => {
   try {
-    const { data } = await axios.get("https://quotes.phamvankhang.name.vn/random?licenseKey=ccd21941303c2b6ad396661854c16cf0514189af21aa6263dc4d31a04b762c8f")
+    const { data } = await axios.get("https://quotes.phamvankhang.name.vn/random?licenseKey=7caee3c11313efe8bbd2ccd6f48a341d479b3d3b751052f630678799554240ca")
     console.log(data)
     const quote = data.data.content
     const author = data.data.author
