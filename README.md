@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Try to be a rainbow in someone else’s cloud. - Maya Angelou
+     You can’t cross the sea merely by standing and staring at the water. - Rabindranath Tagore
