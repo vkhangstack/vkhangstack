@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Fail many times - You will succeess - Pham Van Khang
+     You can’t cross the sea merely by standing and staring at the water. - Rabindranath Tagore
