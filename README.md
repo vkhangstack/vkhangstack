@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     The very important thing you should have is patience. - Jack Ma
+     You have to get used to failure. - Jack Ma
