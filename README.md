@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Don’t let yesterday take up too much of today. - Will Rogers
+     Try to be a rainbow in someone else’s cloud. - Maya Angelou
