@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Make each day your masterpiece. - John Wooden
+     Every man dies. Not every man lives. - William Wallace
