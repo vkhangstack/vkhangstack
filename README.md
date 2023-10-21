@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Try to be a rainbow in someone else’s cloud. - Maya Angelou
+     Life’s tough, but it’s tougher when you’re stupid. - John Wayne
