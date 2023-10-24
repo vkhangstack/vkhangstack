@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Whatever you are, be a good one. - Abraham Lincoln
+     You can’t cross the sea merely by standing and staring at the water. - Rabindranath Tagore
