@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Don’t let yesterday take up too much of today. - Will Rogers
+     As you know, life is an echo; we get what we give. - David DeNotaris
