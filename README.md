@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Be yourself; everyone else is already taken. - Oscar Wilde
+     Nobody who ever gave his best regretted it. - George Halas
