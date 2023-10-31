@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Time moves in one direction, memory in another. - William Gibson
+     Every man dies. Not every man lives. - William Wallace
