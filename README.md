@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Every man dies. Not every man lives. - William Wallace
+     As you know, life is an echo; we get what we give. - David DeNotaris
