@@ -18,4 +18,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     You have to get used to failure. - Jack Ma
+     Life shrinks or expands in proportion to one’s courage. - Anais Nin
