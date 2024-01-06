@@ -3,10 +3,10 @@ const fs = require("fs")
 
 const getQuote = async () => {
   try {
-    const { data } = await axios.get("https://quotes.phamvankhang.name.vn/random?licenseKey=7caee3c11313efe8bbd2ccd6f48a341d479b3d3b751052f630678799554240ca")
+    const { data } = await axios.get("https://api.quotable.io/quotes/random?maxLength=50")
     console.log(data)
-    const quote = data.data.content
-    const author = data.data.author
+    const quote = data[0].content
+    const author = data[0].author
 
     console.log("new quote", `"${quote}" - ${author}`)
 
@@ -36,9 +36,10 @@ const generate = async () => {
         "email": "phamvankhang.tvi@gmail.com",
         "github": "https://github.com/vkhangstack",
         "linkedin": "https://www.linkedin.com/in/vkhangstack",
-        "description": "As a dynamic person and interested in learning a lot of new 
-        knowledge, I wanna improve my English language and programming skills to 
-        become a professional developer.",
+        "description": "I have 2 years of work experience in Software Development. 
+        I have experience and am strong at Software, Web Applications, and Restful API using Nodejs. 
+        I am experienced in integrating automation tests and deploying applications into Continuous Integration and Jenkins.
+        Build project and check security project.",
       }
   
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" with="400px" />

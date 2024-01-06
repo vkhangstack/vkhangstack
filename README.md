@@ -7,9 +7,10 @@
         "email": "phamvankhang.tvi@gmail.com",
         "github": "https://github.com/vkhangstack",
         "linkedin": "https://www.linkedin.com/in/vkhangstack",
-        "description": "As a dynamic person and interested in learning a lot of new 
-        knowledge, I wanna improve my English language and programming skills to 
-        become a professional developer.",
+        "description": "I have 2 years of work experience in Software Development. 
+        I have experience and am strong at Software, Web Applications, and Restful API using Nodejs. 
+        I am experienced in integrating automation tests and deploying applications into Continuous Integration and Jenkins.
+        Build project and check security project.",
       }
   
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" with="400px" />
@@ -18,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     There is no substitute for hard work. - Thomas Edison
+     My friends are my estate. - Emily Dickinson
