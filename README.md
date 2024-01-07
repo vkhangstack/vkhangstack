@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     My friends are my estate. - Emily Dickinson
+     You teach best what you most need to learn. - Richard Bach
