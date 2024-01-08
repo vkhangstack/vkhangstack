@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     You teach best what you most need to learn. - Richard Bach
+     Victory belongs to the most persevering. - Napoleon
