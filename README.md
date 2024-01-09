@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Victory belongs to the most persevering. - Napoleon
+     He who knows himself is enlightened. - Laozi
