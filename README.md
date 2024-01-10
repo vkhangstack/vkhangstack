@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     He who knows himself is enlightened. - Laozi
+     Our work is the presentation of our capabilities. - Edward Gibbon
