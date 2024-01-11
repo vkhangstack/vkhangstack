@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Our work is the presentation of our capabilities. - Edward Gibbon
+     The cause is hidden. The effect is visible to all. - Ovid
