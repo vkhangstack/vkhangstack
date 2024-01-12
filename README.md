@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     The cause is hidden. The effect is visible to all. - Ovid
+     There is no charm equal to tenderness of heart. - Jane Austen
