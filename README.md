@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     There is no charm equal to tenderness of heart. - Jane Austen
+     Wherever you go, go with all your heart. - Confucius
