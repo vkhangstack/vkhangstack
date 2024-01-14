@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Wherever you go, go with all your heart. - Confucius
+     Conditions fall apart. Persist with diligence. - The Buddha
