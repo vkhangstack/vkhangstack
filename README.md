@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Conditions fall apart. Persist with diligence. - The Buddha
+     Always be smarter than the people who hire you. - Lena Horne
