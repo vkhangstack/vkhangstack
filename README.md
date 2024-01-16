@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Always be smarter than the people who hire you. - Lena Horne
+     You win the victory when you yield to friends. - Sophocles
