@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     You win the victory when you yield to friends. - Sophocles
+     The price of greatness is responsibility. - Winston Churchill
