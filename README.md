@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     The price of greatness is responsibility. - Winston Churchill
+     Silence is a source of great strength. - Laozi
