@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Silence is a source of great strength. - Laozi
+     To be great is to be misunderstood. - Ralph Waldo Emerson
