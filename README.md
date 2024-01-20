@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     To be great is to be misunderstood. - Ralph Waldo Emerson
+     Our strength grows out of our weaknesses. - Ralph Waldo Emerson
