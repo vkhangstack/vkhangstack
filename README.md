@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Our strength grows out of our weaknesses. - Ralph Waldo Emerson
+     Radiate boundless love towards the entire world… - The Buddha
