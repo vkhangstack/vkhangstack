@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Radiate boundless love towards the entire world… - The Buddha
+     The years teach much which the days never know. - Ralph Waldo Emerson
