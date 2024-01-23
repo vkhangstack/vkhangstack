@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     The years teach much which the days never know. - Ralph Waldo Emerson
+     Never put off till tomorrow what you can do today. - Thomas Jefferson
