@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Never put off till tomorrow what you can do today. - Thomas Jefferson
+     An ant on the move does more than a dozing ox - Laozi
