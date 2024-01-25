@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     An ant on the move does more than a dozing ox - Laozi
+     History is written by the victors. - Winston Churchill
