@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Wisdom is the supreme part of happiness. - Sophocles
+     Action is the foundational key to all success. - Pablo Picasso
