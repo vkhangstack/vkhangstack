@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Action is the foundational key to all success. - Pablo Picasso
+     Independence is happiness. - Susan B. Anthony
