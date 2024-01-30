@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Imagination is more important than knowledge... - Albert Einstein
+     Technology is teaching us to be human again. - Simon Mainwaring
