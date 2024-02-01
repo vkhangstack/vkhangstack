@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     You can't win unless you learn how to lose. - Kareem Abdul-Jabbar
+     Things do not happen. Things are made to happen. - John F. Kennedy
