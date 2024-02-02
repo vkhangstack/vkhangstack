@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Things do not happen. Things are made to happen. - John F. Kennedy
+     Well begun is half done. - Aristotle
