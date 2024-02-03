@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Well begun is half done. - Aristotle
+     A goal without a plan is just a wish. - Larry Elder
