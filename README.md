@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Time stays long enough for anyone who will use it. - Leonardo da Vinci
+     Wisdom comes alone through suffering. - Aeschylus
