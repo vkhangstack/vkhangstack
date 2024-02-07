@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Delight in heedfulness! Guard well your thoughts! - The Buddha
+     If you want a thing done well, do it yourself. - Napoleon
