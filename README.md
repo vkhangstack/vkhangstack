@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     If you want a thing done well, do it yourself. - Napoleon
+     Independence is happiness. - Susan B. Anthony
