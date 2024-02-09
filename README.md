@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Independence is happiness. - Susan B. Anthony
+     Winners never quit and quitters never win. - Vince Lombardi
