@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     The universe is made of stories, not atoms. - Muriel Rukeyser
+     Fortune befriends the bold. - John Dryden
