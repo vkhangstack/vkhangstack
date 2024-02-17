@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     We must become the change we want to see. - Mahatma Gandhi
+     Love is a friendship set to music. - Joseph Campbell
