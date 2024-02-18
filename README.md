@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Love is a friendship set to music. - Joseph Campbell
+     We gain the strength of the temptation we resist. - Ralph Waldo Emerson
