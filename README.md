@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Music in the soul can be heard by the universe. - Laozi
+     Either I will find a way, or I will make one. - Philip Sidney
