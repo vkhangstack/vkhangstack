@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Either I will find a way, or I will make one. - Philip Sidney
+     Light tomorrow with today! - Elizabeth Browning
