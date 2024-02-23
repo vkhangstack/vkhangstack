@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Light tomorrow with today! - Elizabeth Browning
+     The world is but a canvas to the imagination. - Henry David Thoreau
