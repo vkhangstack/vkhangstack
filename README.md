@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     I allow my intuition to lead my path. - Manuel Puig
+     Delight in heedfulness! Guard well your thoughts! - The Buddha
