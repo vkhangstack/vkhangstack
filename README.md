@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Fans don't boo nobodies. - Reggie Jackson (basketball, born 1990)
+     Begin, be bold, and venture to be wise. - Horace
