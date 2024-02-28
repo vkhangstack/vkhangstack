@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Begin, be bold, and venture to be wise. - Horace
+     Love has no age, no limit; and no death. - John Galsworthy
