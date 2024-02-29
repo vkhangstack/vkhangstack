@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Love has no age, no limit; and no death. - John Galsworthy
+     Time is the most valuable thing a man can spend. - Theophrastus
