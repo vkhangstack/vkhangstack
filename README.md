@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Time is the most valuable thing a man can spend. - Theophrastus
+     If I know what love is, it is because of you. - Hermann Hesse
