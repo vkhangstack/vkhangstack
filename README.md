@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Technology is teaching us to be human again. - Simon Mainwaring
+     It always seems impossible until it's done. - Nelson Mandela
