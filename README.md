@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     It always seems impossible until it's done. - Nelson Mandela
+     I walk slowly, but I never walk backward. - Abraham Lincoln
