@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     A disciplined mind brings happiness. - The Buddha
+     Commitment is an act, not a word. - Jean-Paul Sartre
