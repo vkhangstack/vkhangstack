@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Commitment is an act, not a word. - Jean-Paul Sartre
+     May all beings have happy minds. - The Buddha
