@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     May all beings have happy minds. - The Buddha
+     Our intention creates our reality. - Wayne Dyer
