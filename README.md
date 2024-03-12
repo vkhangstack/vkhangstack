@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Good luck is another name for tenacity of purpose. - Ralph Waldo Emerson
+     Appearances are often deceiving. - Aesop
