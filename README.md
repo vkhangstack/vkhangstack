@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Appearances are often deceiving. - Aesop
+     He who angers you conquers you. - Elizabeth Kenny
