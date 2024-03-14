@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     He who angers you conquers you. - Elizabeth Kenny
+     I think and that is all that I am. - Wayne Dyer
