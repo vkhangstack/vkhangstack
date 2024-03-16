@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     I think and that is all that I am. - Wayne Dyer
+     Value your friendship. Value your relationships. - Barbara Bush
