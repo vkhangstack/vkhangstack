@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Value your friendship. Value your relationships. - Barbara Bush
+     I walk slowly, but I never walk backward. - Abraham Lincoln
