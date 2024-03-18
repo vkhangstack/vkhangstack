@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     I walk slowly, but I never walk backward. - Abraham Lincoln
+     Memory is the mother of all wisdom. - Samuel Johnson
