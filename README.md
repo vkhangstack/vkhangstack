@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Memory is the mother of all wisdom. - Samuel Johnson
+     Nothing diminishes anxiety faster than action. - Walter Inglis Anderson
