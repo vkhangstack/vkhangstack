@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     An ounce of emotion is equal to a ton of facts. - John Junor
+     Learning never exhausts the mind. - Leonardo da Vinci
