@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Learning never exhausts the mind. - Leonardo da Vinci
+     All wisdom does not reside in Delhi. - P. Chidambaram
