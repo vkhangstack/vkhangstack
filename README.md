@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     All wisdom does not reside in Delhi. - P. Chidambaram
+     Adopt the pace of nature: her secret is patience. - Ralph Waldo Emerson
