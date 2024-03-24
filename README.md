@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Adopt the pace of nature: her secret is patience. - Ralph Waldo Emerson
+     Silence is the sleep that nourishes wisdom. - Francis Bacon
