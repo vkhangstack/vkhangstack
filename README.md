@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     There is nothing impossible to him who will try. - Alexander the Great
+     The wisest men follow their own direction. - Euripides
