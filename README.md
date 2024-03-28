@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     The wisest men follow their own direction. - Euripides
+     History is written by the victors. - Winston Churchill
