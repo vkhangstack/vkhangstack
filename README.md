@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     We gain the strength of the temptation we resist. - Ralph Waldo Emerson
+     Life has no blessing like a prudent friend. - Euripides
