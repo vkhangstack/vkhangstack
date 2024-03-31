@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Life has no blessing like a prudent friend. - Euripides
+     The beginning is always today. - Mary Wollstonecraft
