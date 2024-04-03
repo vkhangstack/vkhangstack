@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     The cautious seldom err. - Confucius
+     A disciplined mind brings happiness. - The Buddha
