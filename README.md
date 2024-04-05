@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Trouble is only opportunity in work clothes. - Henry J. Kaiser
+     Silence is the sleep that nourishes wisdom. - Francis Bacon
