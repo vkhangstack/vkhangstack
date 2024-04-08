@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Problems are not stop signs, they are guidelines. - Robert Schuller
+     You're never a loser until you quit trying. - Mike Ditka
