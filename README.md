@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     You're never a loser until you quit trying. - Mike Ditka
+     Do one thing every day that scares you. - Eleanor Roosevelt
