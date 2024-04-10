@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Do one thing every day that scares you. - Eleanor Roosevelt
+     Be yourself; everyone else is already taken. - Oscar Wilde
