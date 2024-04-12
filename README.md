@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Technology is teaching us to be human again. - Simon Mainwaring
+     There is no charm equal to tenderness of heart. - Jane Austen
