@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Every problem has a gift for you in its hands. - Richard Bach
+     Never mistake activity for achievement. - John Wooden
