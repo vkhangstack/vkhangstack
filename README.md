@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Never mistake activity for achievement. - John Wooden
+     Speak low, if you speak love. - William Shakespeare
