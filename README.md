@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Speak low, if you speak love. - William Shakespeare
+     A rolling stone gathers no moss. - Publilius Syrus
