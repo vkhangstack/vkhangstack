@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     A rolling stone gathers no moss. - Publilius Syrus
+     Yesterday's home runs don't win today's games. - Babe Ruth
