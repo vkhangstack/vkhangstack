@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Yesterday's home runs don't win today's games. - Babe Ruth
+     Much wisdom often goes with fewer words. - Sophocles
