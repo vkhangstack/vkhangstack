@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Much wisdom often goes with fewer words. - Sophocles
+     If you surrender to the wind, you can ride it. - Toni Morrison
