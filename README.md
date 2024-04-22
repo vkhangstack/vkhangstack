@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Injuries may be forgiven, but not forgotten. - Aesop
+     Wisdom is always an overmatch for strength. - Phil Jackson
