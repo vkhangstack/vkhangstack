@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Wisdom is always an overmatch for strength. - Phil Jackson
+     Anticipate the difficult by managing the easy. - Laozi
