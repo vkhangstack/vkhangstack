@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Anticipate the difficult by managing the easy. - Laozi
+     All know the way; few actually walk it. - Bodhidharma
