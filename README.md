@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     All know the way; few actually walk it. - Bodhidharma
+     Skill to do comes of doing. - Ralph Waldo Emerson
