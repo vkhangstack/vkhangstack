@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Skill to do comes of doing. - Ralph Waldo Emerson
+     It is not wisdom but Authority that makes a law. - Thomas Hobbes
