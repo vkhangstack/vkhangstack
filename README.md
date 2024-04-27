@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     It is not wisdom but Authority that makes a law. - Thomas Hobbes
+     No man was ever wise by chance. - Seneca the Younger
