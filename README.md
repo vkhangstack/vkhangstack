@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     No man was ever wise by chance. - Seneca the Younger
+     There is nothing permanent except change. - Heraclitus
