@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Logic is the beginning of wisdom, not the end. - Leonard Nimoy
+     I destroy my enemies when I make them my friends. - Abraham Lincoln
