@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     What you do today can improve all your tomorrows. - Ralph Marston
+     It is good even for old men to learn wisdom. - Aeschylus
