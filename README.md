@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     It is good even for old men to learn wisdom. - Aeschylus
+     Life is just a chance to grow a soul. - A. Powell Davies
