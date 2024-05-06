@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Life is just a chance to grow a soul. - A. Powell Davies
+     Love is the flower you've got to let grow. - John Lennon
