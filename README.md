@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Love is the flower you've got to let grow. - John Lennon
+     We must not say every mistake is a foolish one. - Cicero
