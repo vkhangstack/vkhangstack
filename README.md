@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     We must not say every mistake is a foolish one. - Cicero
+     Almost everything comes from nothing. - Henri-Frédéric Amiel
