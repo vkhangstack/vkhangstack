@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     In order to win, you must expect to win. - Richard Bach
+     The beginning is always today. - Mary Wollstonecraft
