@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     The beginning is always today. - Mary Wollstonecraft
+     No one has ever become poor by giving. - Anne Frank
