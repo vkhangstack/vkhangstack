@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     No one has ever become poor by giving. - Anne Frank
+     I'll prepare and someday my chance will come. - Abraham Lincoln
