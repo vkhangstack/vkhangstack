@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     I'll prepare and someday my chance will come. - Abraham Lincoln
+     Value your friendship. Value your relationships. - Barbara Bush
