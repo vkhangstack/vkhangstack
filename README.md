@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Value your friendship. Value your relationships. - Barbara Bush
+     Friends are the siblings God never gave us. - Mencius
