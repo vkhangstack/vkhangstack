@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Friends are the siblings God never gave us. - Mencius
+     The road of excess leads to the palace of wisdom. - William Blake
