@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     The road of excess leads to the palace of wisdom. - William Blake
+     Sadness flies away on the wings of time. - Jean de La Fontaine
