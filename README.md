@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Sadness flies away on the wings of time. - Jean de La Fontaine
+     A friend is what the heart needs all the time. - Henry van Dyke Jr.
