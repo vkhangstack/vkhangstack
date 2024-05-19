@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     A friend is what the heart needs all the time. - Henry van Dyke Jr.
+     Always be smarter than the people who hire you. - Lena Horne
