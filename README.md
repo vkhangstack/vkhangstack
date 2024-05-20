@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Always be smarter than the people who hire you. - Lena Horne
+     Our work is the presentation of our capabilities. - Edward Gibbon
