@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Goals are the fuel in the furnace of achievement. - Brian Tracy
+     You won't skid if you stay in a rut. - Kin Hubbard
