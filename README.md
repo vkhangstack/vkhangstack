@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     You won't skid if you stay in a rut. - Kin Hubbard
+     Fortune favors the brave. - Virgil
