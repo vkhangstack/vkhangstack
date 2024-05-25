@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     You must do the things you think you cannot do. - Eleanor Roosevelt
+     Wisdom begins at the end. - Daniel Webster
