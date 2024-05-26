@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Wisdom begins at the end. - Daniel Webster
+     We lost because we told ourselves we lost. - Leo Tolstoy
