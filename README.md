@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     An ant on the move does more than a dozing ox - Laozi
+     You're never a loser until you quit trying. - Mike Ditka
