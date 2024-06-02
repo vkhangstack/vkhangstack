@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     From wonder into wonder existence opens. - Laozi
+     Injuries may be forgiven, but not forgotten. - Aesop
