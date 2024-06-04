@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     To enjoy life, we must touch much of it lightly. - Voltaire
+     May all beings have happy minds. - The Buddha
