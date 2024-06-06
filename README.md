@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     I will prepare and someday my chance will come. - Abraham Lincoln
+     The simplest things are often the truest. - Richard Bach
