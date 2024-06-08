@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Knowledge speaks, but wisdom listens. - Jimi Hendrix
+     Action is eloquence. - William Shakespeare
