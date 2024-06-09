@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Action is eloquence. - William Shakespeare
+     It is not wisdom but Authority that makes a law. - Thomas Hobbes
