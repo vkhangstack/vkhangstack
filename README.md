@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     If you can dream it, you can do it. - Walt Disney
+     If a man does his best, what else is there? - George S. Patton
