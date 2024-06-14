@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     If a man does his best, what else is there? - George S. Patton
+     Be yourself; everyone else is already taken. - Oscar Wilde
