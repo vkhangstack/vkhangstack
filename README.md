@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     If the shoe doesn't fit, must we change the foot? - Gloria Steinem
+     Life is about timing. - Carl Lewis
