@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Life is about timing. - Carl Lewis
+     Never mistake motion for action. - Ernest Hemingway
