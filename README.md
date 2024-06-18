@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Never mistake motion for action. - Ernest Hemingway
+     You can't blame gravity for falling in love. - Albert Einstein
