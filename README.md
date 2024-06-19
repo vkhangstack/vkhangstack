@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     You can't blame gravity for falling in love. - Albert Einstein
+     Wise men make more opportunities than they find. - Francis Bacon
