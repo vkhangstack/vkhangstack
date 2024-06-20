@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Wise men make more opportunities than they find. - Francis Bacon
+     Love is blind; friendship closes its eyes. - Friedrich Nietzsche
