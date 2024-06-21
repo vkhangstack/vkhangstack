@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Love is blind; friendship closes its eyes. - Friedrich Nietzsche
+     If you can dream it, you can do it. - Walt Disney
