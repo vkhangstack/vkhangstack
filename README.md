@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     I believe that every person is born with talent. - Maya Angelou
+     Happiness can exist only in acceptance. - George Orwell
