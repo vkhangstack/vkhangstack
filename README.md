@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Happiness can exist only in acceptance. - George Orwell
+     Wisdom is the supreme part of happiness. - Sophocles
