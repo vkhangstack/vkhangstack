@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Wisdom is the supreme part of happiness. - Sophocles
+     Be like the flower, turn your face to the sun. - Kahlil Gibran
