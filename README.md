@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Of all possessions a friend is the most precious. - Herodotus
+     Happiness can exist only in acceptance. - George Orwell
