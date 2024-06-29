@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Happiness can exist only in acceptance. - George Orwell
+     A friend is, as it were, a second self. - Cicero
