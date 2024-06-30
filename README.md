@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     A friend is, as it were, a second self. - Cicero
+     Nothing diminishes anxiety faster than action. - Walter Inglis Anderson
