@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Nothing strengthens authority so much as silence. - Leonardo da Vinci
+     I destroy my enemies when I make them my friends. - Abraham Lincoln
