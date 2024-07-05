@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     I destroy my enemies when I make them my friends. - Abraham Lincoln
+     I never worry about action, but only inaction. - Winston Churchill
