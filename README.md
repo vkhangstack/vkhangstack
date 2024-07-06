@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     I never worry about action, but only inaction. - Winston Churchill
+     History is written by the victors. - Winston Churchill
