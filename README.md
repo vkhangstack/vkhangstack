@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     History is written by the victors. - Winston Churchill
+     Each day provides its own gifts. - Marcus Aurelius
