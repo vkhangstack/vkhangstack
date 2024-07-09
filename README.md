@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Life is a progress, and not a station. - Ralph Waldo Emerson
+     Much wisdom often goes with fewer words. - Sophocles
