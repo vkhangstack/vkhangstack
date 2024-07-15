@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Independence is happiness. - Susan B. Anthony
+     A short saying often contains much wisdom. - Sophocles
