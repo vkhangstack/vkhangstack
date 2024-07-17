@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Wisdom begins in wonder. - Socrates
+     Well begun is half done. - Aristotle
