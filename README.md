@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Gratitude is riches. Complaint is poverty. - Doris Day
+     Silence is the sleep that nourishes wisdom. - Francis Bacon
