@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Silence is the sleep that nourishes wisdom. - Francis Bacon
+     To see things in the seed, that is genius. - Laozi
