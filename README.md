@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     To see things in the seed, that is genius. - Laozi
+     Action is eloquence. - William Shakespeare
