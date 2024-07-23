@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Action is eloquence. - William Shakespeare
+     One loyal friend is worth ten thousand relatives. - Euripides
