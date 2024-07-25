@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Nothing diminishes anxiety faster than action. - Walter Inglis Anderson
+     Wherever you go, go with all your heart. - Confucius
