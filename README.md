@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Never mistake motion for action. - Ernest Hemingway
+     Believe you can and you're halfway there. - Theodore Roosevelt
