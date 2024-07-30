@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     It is easy to be brave from a safe distance. - Aesop
+     Whoso loves, believes the impossible. - Elizabeth Browning
