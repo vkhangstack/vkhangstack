@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Whoso loves, believes the impossible. - Elizabeth Browning
+     Rare as is true love, true friendship is rarer. - Jean de La Fontaine
