@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Rare as is true love, true friendship is rarer. - Jean de La Fontaine
+     Excellence is not a skill. It is an attitude. - Ralph Marston
