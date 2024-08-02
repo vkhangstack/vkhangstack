@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Excellence is not a skill. It is an attitude. - Ralph Marston
+     We can only learn to love by loving. - Iris Murdoch
