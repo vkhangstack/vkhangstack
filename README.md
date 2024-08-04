@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Time you enjoyed wasting was not wasted. - John Lennon
+     Time stays long enough for anyone who will use it. - Leonardo da Vinci
