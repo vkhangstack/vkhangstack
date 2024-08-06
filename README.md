@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     A man is great by deeds, not by birth. - Chanakya
+     Nothing strengthens authority so much as silence. - Leonardo da Vinci
