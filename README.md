@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Nothing strengthens authority so much as silence. - Leonardo da Vinci
+     Either you run the day or the day runs you. - Jim Rohn
