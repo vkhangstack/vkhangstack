@@ -19,4 +19,4 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vkhangstack&theme=dracula" />
 
-     Either you run the day or the day runs you. - Jim Rohn
+     Wisdom is always an overmatch for strength. - Phil Jackson
