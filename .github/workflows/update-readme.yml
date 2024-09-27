@@ -1,0 +1,29 @@
+name: update-readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        # Khởi tạo môi trường NodeJS
+        with:
+          node-version: 16.18.0
+      - run: npm ci
+      - name: Generate quote
+        # Chạy script để gọi API lấy quote sau đó sửa file README.md
+        run: npm run start
+      - name: Update README.md
+        # Push file README.md đã được thay đổi lên github
+        run: |
+          git config --global user.email "phamvankhang.tvi@gmail.com"
+          git config --global user.name "Khang Pham"
+          git add .
+          git commit -m "Updated README.md" || echo "No changes to commit"
+          git push origin master
