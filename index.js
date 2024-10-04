@@ -3,10 +3,16 @@ const fs = require("fs")
 
 const getQuote = async () => {
   try {
-    const { data } = await axios.get("https://api.quotable.io/quotes/random?maxLength=50")
-    console.log(data)
-    const quote = data[0].content
-    const author = data[0].author
+    let result
+    try {
+      let { data } = await axios.get("https://api.quotable.io/quotes/random?maxLength=50")
+      result = data
+    } catch (error) {
+      let { data } = await axios.get("http://api.quotable.io/quotes/random?maxLength=50")
+      result = data
+    }
+    const quote = result[0].content
+    const author = result[0].author
 
     console.log("new quote", `"${quote}" - ${author}`)
 
