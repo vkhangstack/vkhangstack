@@ -17,4 +17,4 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   
-     The awareness of our own strength makes us modest. - Paul Cézanne
+     The most certain sign of wisdom is cheerfulness. - Michel de Montaigne
