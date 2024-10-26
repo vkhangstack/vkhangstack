@@ -11,11 +11,11 @@
          Skilled in building robust and scalable APIs and microservices with a strong understanding of software architecture and database management.
          Familiar with frontend development using React.js and basic DevOps practices, including CI/CD pipelines and cloud deployment.
          Known for delivering efficient solutions, optimizing application performance, and collaborating effectively within Agile teams.",
-        "requestTime": 1729816940134,
+        "requestTime": 1729903258105,
       }
   
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" with="400px" />
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   
-     Not engaging in ignorance is wisdom. - Bodhidharma
+     Knowledge speaks, but wisdom listens. - Jimi Hendrix
