@@ -11,11 +11,11 @@
          Skilled in building robust and scalable APIs and microservices with a strong understanding of software architecture and database management.
          Familiar with frontend development using React.js and basic DevOps practices, including CI/CD pipelines and cloud deployment.
          Known for delivering efficient solutions, optimizing application performance, and collaborating effectively within Agile teams.",
-        "requestTime": 1730594761639,
+        "requestTime": 1730681035228,
       }
   
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" with="400px" />
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   
-     Music in the soul can be heard by the universe. - Laozi
+     Goals are the fuel in the furnace of achievement. - Brian Tracy
