@@ -11,11 +11,11 @@
          Skilled in building robust and scalable APIs and microservices with a strong understanding of software architecture and database management.
          Familiar with frontend development using React.js and basic DevOps practices, including CI/CD pipelines and cloud deployment.
          Known for delivering efficient solutions, optimizing application performance, and collaborating effectively within Agile teams.",
-        "requestTime": 1738284095662,
+        "requestTime": 1738370668401,
       }
   
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" with="400px" />
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   
-     May all beings have happy minds. - The Buddha
+     Myths which are believed in tend to become true. - George Orwell
