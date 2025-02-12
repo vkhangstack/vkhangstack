@@ -11,11 +11,11 @@
          Skilled in building robust and scalable APIs and microservices with a strong understanding of software architecture and database management.
          Familiar with frontend development using React.js and basic DevOps practices, including CI/CD pipelines and cloud deployment.
          Known for delivering efficient solutions, optimizing application performance, and collaborating effectively within Agile teams.",
-        "requestTime": 1739234537277,
+        "requestTime": 1739320949400,
       }
   
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" with="400px" />
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   
-     The most effective way to do it, is to do it. - Amelia Earhart
+     If you aren't going all the way, why go at all? - Joe Namath
