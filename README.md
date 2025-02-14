@@ -11,11 +11,11 @@
          Skilled in building robust and scalable APIs and microservices with a strong understanding of software architecture and database management.
          Familiar with frontend development using React.js and basic DevOps practices, including CI/CD pipelines and cloud deployment.
          Known for delivering efficient solutions, optimizing application performance, and collaborating effectively within Agile teams.",
-        "requestTime": 1739407362649,
+        "requestTime": 1739493736509,
       }
   
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" with="400px" />
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   
-     Happiness can exist only in acceptance. - George Orwell
+     The root of suffering is attachment. - The Buddha
