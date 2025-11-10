@@ -1,5 +1,5 @@
 const axios = require("axios")
-const fs = require("fs")
+const fs = require("fs").promises
 
 // Profile data constant to avoid duplication
 const PROFILE_DATA = {
