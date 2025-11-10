@@ -1,18 +1,11 @@
 const axios = require("axios")
-const fs = require("fs")
+const fs = require("fs").promises
 
 const getQuote = async () => {
   try {
-    let result
-    try {
-      let { data } = await axios.get("https://api.quotable.io/quotes/random?maxLength=50")
-      result = data
-    } catch (error) {
-      let { data } = await axios.get("http://api.quotable.io/quotes/random?maxLength=50")
-      result = data
-    }
-    const quote = result[0].content
-    const author = result[0].author
+    const { data } = await axios.get("https://api.quotable.io/quotes/random?maxLength=50")
+    const quote = data[0].content
+    const author = data[0].author
 
     console.log("new quote", `"${quote}" - ${author}`)
 
@@ -34,9 +27,7 @@ const generate = async () => {
     author = "vkhangstack"
   }
 
-  fs.writeFileSync(
-    "README.md",
-    `
+  const readmeContent = `
      ## Github Profile of Pham Van Khang
       {
         "name": "Pham Van Khang",
@@ -57,7 +48,14 @@ const generate = async () => {
   [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   
      ${quote} - ${author}`
-  )
+
+  try {
+    await fs.writeFile("README.md", readmeContent)
+    console.log("README.md updated successfully")
+  } catch (err) {
+    console.error("Error writing README.md:", err.message)
+    throw err
+  }
 }
 
 generate()
