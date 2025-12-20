@@ -13,6 +13,5 @@
   
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" with="400px" />
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=vkhangstack)](https://github.com/vkhangstack/vkhangstack)
   
      Fail many times. You will success! - vkhangstack
