@@ -1,7 +1,7 @@
 # Hi, I'm Phạm Văn Khang 👋
 
 **Software Engineer / Full Stack Developer**  
-Full Stack Developer (2+ years) focused on **Node.js & Go**, building high-traffic products (3M+ users), payment integrations, and real-time systems with strong attention to performance, security, and UI/UX.
+Full Stack Developer (3+ years) focused on **Node.js & Go**, building high-traffic products (3M+ users), payment integrations, and real-time systems with strong attention to performance, security, and UI/UX.
 
 - 🔭 Currently working at **Intelin (ST Group)** on system operations and **ZMP (Zalo Mini App)** product development  
 - 🌱 Interested in **high-performance web apps**, **real-time systems**, and **DevOps**  
@@ -12,8 +12,8 @@ Full Stack Developer (2+ years) focused on **Node.js & Go**, building high-traff
 
 ## 🧑‍💻 Experience
 
-### Intelin Technology JSC (ST Group) – Fullstack Developer (Node.js Focus)
-**Jul 2022 - Present · Full-time**  
+### IntelIn Technology JSC (ST Group) – Fullstack Developer (Node.js Focus)
+**Jul 2022 - Sep 2026 · Full-time**  
 - Developed and maintained web & mobile apps serving **3M+ users**, focusing on performance and reliability  
 - Designed & optimized **RESTful APIs (Node.js)** and **Go services**, improving response time and throughput  
 - Built responsive **React.js & React Native** interfaces for consistent cross-platform UX  
